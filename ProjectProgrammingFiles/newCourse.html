@@ -1,0 +1,40 @@
+<html>
+<head>
+  <title>Dragons and Databases - New Course Entry</title>
+</head>
+
+<body>
+  <h1>Dragons and Databases - New Course Entry</h1>
+  <form action="insertCourse.php" method="post">
+    <table border="0">
+      <tr>
+        <td>Course ID</td>
+         <td><input type="text" name="courseID" maxlength="13" size="13"></td>
+      </tr>
+      <tr>
+        <td>Course Name</td>
+        <td> <input type="text" name="topic" maxlength="30" size="30"></td>
+      </tr>
+      <tr>
+        <td>Course Description</td>
+        <td> <input type="text" name="description" maxlength="60" size="30"></td>
+      </tr>
+      <tr>
+        <td>Modality</td>
+        <td><input type="text" name="modality" maxlength="7" size="7"></td>
+      </tr>
+      <tr>
+        <td>Number of Seats</td>
+        <td><input type="text" name="numberStudents" maxlength="7" size="7"></td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td><input type="text" name="credits" maxlength="7" size="7"></td>
+      </tr>
+      <tr>
+        <td colspan="2"><input type="submit" value="Add Course"></td>
+      </tr>
+    </table>
+  </form>
+</body>
+</html>
