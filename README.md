@@ -1,6 +1,8 @@
 # Database-Systems
-CSIT355 Database Systems - Final Project
-Team Name: Dragons & Databases
+CSIT355 Database Systems - Final Project   
+
+Team Name: Dragons & Databases   
+
 Team Members: Jared Kruegel, Dhruv Rana, Xavier Warner, Stavros Kokkinos
 
 # Goal 
@@ -16,4 +18,4 @@ To create and class(course) registration site, with an emphasis on the database 
  were newcomers to the 5th edition. They only had a limited time to get hands-on experience
  while playing at the store. Our team's solution involves creating an online platform offering
  courses covering various aspects of D&D fifth edition. We provided these ideas to our client, and
- they agreed that our proposed idea was a good way to proceed
+ they agreed that our proposed idea was a good way to proceed.
